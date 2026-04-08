@@ -8,7 +8,7 @@ document.addEventListener("DOMContentLoaded", function() {
 
         contact[i].addEventListener("click", function() {
 
-            window.open("https://api.whatsapp.com/send?phone=6282180006176&text=Hi%20FEYTRANSPORT%2C%20saya%20mau%20bertanya%20tentang%20jemputan%20anak%20sekolah");
+            window.open("https://api.whatsapp.com/send?phone=6288210379043&text=Hi%20FEYTRANSPORT%2C%20saya%20mau%20bertanya%20tentang%20jemputan%20anak%20sekolah");
 
         });
 
